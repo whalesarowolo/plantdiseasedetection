@@ -1,0 +1,8 @@
+README.md
+setup.py
+plantdiseasesdetector.egg-info/PKG-INFO
+plantdiseasesdetector.egg-info/SOURCES.txt
+plantdiseasesdetector.egg-info/dependency_links.txt
+plantdiseasesdetector.egg-info/requires.txt
+plantdiseasesdetector.egg-info/top_level.txt
+src/__init__.py

@@ -1,0 +1,4 @@
+pandas
+NumPy
+TensorFlow
+keras
